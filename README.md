@@ -27,3 +27,6 @@ Make sure you have the following installed:
 
 # Contributing
 Contributions are welcome! If you find any issues or want to add enhancements, feel free to open a pull request.
+
+## License
+[MIT License](LICENSE)
